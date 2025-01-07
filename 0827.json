@@ -2,6 +2,16 @@
   "spider": "./jar/custom_spider.jar;md5;41c87635d7592069884a5dafa12acabe",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+   {
+            "key": "MV_vod",
+            "name": "卡派OK",
+            "type": 1,
+            "api": "http://192.168.1.12:7777/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "true"
+          },
     {
       "key": "商店",
       "name": "商店",
